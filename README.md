@@ -48,3 +48,6 @@ learn more about programming and programming languages.
   <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" title="Canva" alt="Canva" width="60" height="60"/>&nbsp;<br/><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="60" height="60"/>
 </div>
+
+---
+

@@ -14,13 +14,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hai+WELCOME!;+HALLO+daniaffan;" />
 </h1>
 
-👨‍💻 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+👨‍💻 I want to work as a Software Engineer and I want to work on frontend and backend to create websites applications.
 
-- :seedling: Exploring Technical Content Writing.
+- 📝 Now and in the future I want to
+learn more about programming and programming languages.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- 🔍 In my free time I want to learn new things and want to deepen my understanding.
 
-- Do you want to ask my email?
+- 📩 Do you want to ask my email? daniaja0171@gmail.com.
+  
   ---
 
 ### :hammer_and_wrench: Languages and Tools :

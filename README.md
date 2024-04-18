@@ -15,6 +15,8 @@
 
 ---
 
+### :woman_technologist: About Me :
+
 👨‍💻 I want to work as a Software Engineer and I want to work on frontend and backend to create websites applications.
 
  📝 Now and in the future I want to

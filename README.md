@@ -16,12 +16,12 @@
 
 👨‍💻 I want to work as a Software Engineer and I want to work on frontend and backend to create websites applications.
 
-- 📝 Now and in the future I want to
+ 📝 Now and in the future I want to
 learn more about programming and programming languages.
 
-- 🔍 In my free time I want to learn new things and want to deepen my understanding.
+ 🔍 In my free time I want to learn new things and want to deepen my understanding.
 
-- 📩 Do you want to ask my email? daniaja0171@gmail.com.
+ 📩 Do you want to ask my email? daniaja0171@gmail.com.
   
   ---
 

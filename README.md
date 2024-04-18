@@ -14,6 +14,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hai+WELCOME!;+HALLO+daniaffan;" />
 </h1>
 
+---
+
 👨‍💻 I want to work as a Software Engineer and I want to work on frontend and backend to create websites applications.
 
  📝 Now and in the future I want to

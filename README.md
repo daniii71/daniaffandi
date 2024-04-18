@@ -23,7 +23,6 @@ learn more about programming and programming languages.
 
  📩 Do you want to ask my email? daniaja0171@gmail.com.
   
-  ---
 
   
 ### :hammer_and_wrench: Languages and Tools :
